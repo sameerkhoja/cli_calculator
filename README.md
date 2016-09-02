@@ -10,7 +10,9 @@ var cli_calculator = require('cli_calculator');
 ```
 
 ## Documentation
-_(Coming soon)_
+```bash
+calc '+ 2 3'
+```
 
 ## Examples
 _(Coming soon)_

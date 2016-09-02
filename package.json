@@ -1,8 +1,8 @@
 {
   "name": "cli_calculator",
   "description": "AUV is #1",
-  "version": "0.1.0",
-  "homepage": "https://github.com/Sameer/cli_calculator",
+  "version": "0.2.1",
+  "homepage": "https://github.com/samkho10/cli_calculator",
   "author": {
     "name": "Sameer Khoja",
     "email": "sk2327@cornell.edu",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Sameer/cli_calculator.git"
+    "url": "git://github.com/samkho10/cli_calculator.git"
   },
   "bugs": {
-    "url": "https://github.com/Sameer/cli_calculator/issues"
+    "url": "https://github.com/samkho10/cli_calculator/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/Sameer/cli_calculator/blob/master/LICENSE-MIT"
+      "url": "https://github.com/samkho10/cli_calculator/blob/master/LICENSE-MIT"
     }
   ],
   "main": "lib/cli_calculator",

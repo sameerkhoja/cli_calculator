@@ -3,11 +3,7 @@
 AUV is #1
 
 ## Getting Started
-Install the module with: `npm install cli_calculator`
-
-```javascript
-var cli_calculator = require('cli_calculator');
-```
+Install the module with: `npm install -g cli_calculator`
 
 ## Documentation
 ```bash

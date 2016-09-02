@@ -12,6 +12,9 @@ var cli_calculator = require('cli_calculator');
 ## Documentation
 ```bash
 calc '+ 2 3'
+=> 5
+calc '/ 4 / + 2 3 * 4 2'
+=> 0.3076923076923077
 ```
 
 ## Examples
